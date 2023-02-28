@@ -16,4 +16,4 @@ Step 4: Visualization the data <br>
 <li>Time Series Line : User can click every single year to check the data then show on the dashboard</li>
 <li>Bar Chart Hover : For easy reading , Dashboard highlight the appointing data when your mouse hover the bar chart</li>
 
-<img src="https://github.com/arshouinvest/corporate_analysis/blob/main/dashboard.png">
+<img src="https://github.com/dndworkshop/tableau_pembina-pipeline-2012-2022/blob/main/image.png">
